@@ -8,7 +8,7 @@ Actualmente me dedico a tiempo completo a la **formación**, especialmente la **
 
 He impartido cursos presenciales para el profesorado sobre temas de **Programación**, **Robótica**, y **Diseño e impresión 3D** para IFES, Centros de Enseñanza del Profesorado (CEP) de Jaén (Jaén, Linares, Úbeda y Orcera), Granada, Córdoba y Antequera.
 
-El pasado curso impartí un [curso de Diseño e Impresión 3D] (http://www.darwineventur.com/2016/06/iniciacion-al-diseno-e-impresion-3d.html) en la Facultad de Ciencias de Granada
+El pasado curso impartí un [curso de Diseño e Impresión 3D](http://www.darwineventur.com/2016/06/iniciacion-al-diseno-e-impresion-3d.html) en la Facultad de Ciencias de Granada
 
 He colaborado como profesor ayudante en el Experto Universitario en Robótica, Programación e Impresión 3D de la Universidad Internacional de la Rioja en las asignaturas de "Programación de dispositivos Android y comunicación con placas Arduino" y "Desarrollo de aplicaciones robóticas, domóticas, inventos caseros"
 
