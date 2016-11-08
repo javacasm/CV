@@ -16,6 +16,6 @@ En los últimos 5 años **he impartido asignaturas de FP** (DAM) sobre Programac
 
 He creado y tutorizado  **cursos online** de programación de **Arduino** ([Curso básico](http://cevug.ugr.es/arduino) ya va por la 7ª edición y [Curso Avanzado](http://cevug.ugr.es/arduino_avanzado) ya va por la 4ª edición), **[Raspberry](http://cevug.ugr.es/raspberry_pi)** y **[Javascript](http://http://cevug.ugr.es/javascript)** para el [Centro de Enseñanzas Virtuales de la Universidad de Granada](http://cevug.ugr.es), de los que se han hecho varias ediciones en los últimos años.
 
-He sido director académico de [Academia Android](http://www.academiaandroid.com) y es tutor de algunos de sus cursos sobre programación en **Android**.
+He sido director académico de [Academia Android](http://www.academiaandroid.com) y soy tutor de algunos de sus cursos sobre programación en **Android**.
 
 Dirigí el Departamento de desarrollo de software en Smart RTC, desarrollando sistemas de recogida y difusión de datos de parques fotovoltaicos distribuidos por todo el planeta, empleando tecnologías de software libre y también propietarias. También he dirigido el departamento de análisis de datos de Assyce Fotovoltaica donde se creaban algoritmos y software de análisis estadístico.
