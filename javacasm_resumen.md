@@ -12,7 +12,7 @@ El pasado curso impartí un [curso de Diseño e Impresión 3D](http://www.darwin
 
 He colaborado como profesor ayudante en el Experto Universitario en Robótica, Programación e Impresión 3D de la Universidad Internacional de la Rioja en las asignaturas de "Programación de dispositivos Android y comunicación con placas Arduino" y "Desarrollo de aplicaciones robóticas, domóticas, inventos caseros"
 
-En los últimos 5 años **he impartido asignaturas de FP** (DAM) sobre Programación de Dispositivos Móviles Android (PMDM) y Programación de Servidores en Red en Instituto FOC (PSP) en modalidad **a distancia**, utilizando **plataformas online**.
+Entre 2010 y 2017 **he impartido asignaturas de FP** (DAM) sobre Programación de Dispositivos Móviles Android (PMDM) y Programación de Servidores en Red en Instituto FOC (PSP) en modalidad **a distancia**, utilizando **plataformas online**.
 
 He creado y tutorizado  **cursos online** de programación de **Arduino** ([Curso básico](http://cevug.ugr.es/arduino) ya va por la 7ª edición y [Curso Avanzado](http://cevug.ugr.es/arduino_avanzado) ya va por la 4ª edición), **[Raspberry](http://cevug.ugr.es/raspberry_pi)** y **[Javascript](http://http://cevug.ugr.es/javascript)** para el [Centro de Enseñanzas Virtuales de la Universidad de Granada](http://cevug.ugr.es), de los que se han hecho varias ediciones en los últimos años.
 
