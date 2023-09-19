@@ -4,6 +4,8 @@ Soy Licenciado en Ciencias Físicas, con especialidad en Física Teórica, docto
 
 Actualmente me dedico a tiempo completo a la formación, especialmente del profesorado, impartiendo  cursos presenciales de Programación, Robótica, y Diseño e impresión 3D para IFES, Centros de Profesorado (CEP) de Jaén (Jaén, Linares, Úbeda y Orcera), Granada, Córdoba y Antequera.
 
+También coloboro con la Escuela Jr de Ingeniería impartiendo clases de robótica y progamación.
+
 Entre 2010 y 2017 he impartido asignaturas de programación de dispositivos móviles (Android) y programación de Servidores en Red en Instituto FP Privado FOC.
 
 Desde 2012 imparto para el Centro de Enseñanzas virtuales de la Universidad de Granada cursos de programación de Arduino (Curso básico y Curso Avanzado), Raspberry Pi y Javascript.
