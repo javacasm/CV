@@ -1,9 +1,10 @@
-José Antonio Vacas Martínez.
+## José Antonio Vacas Martínez javacasm@gmail.com
 
-Soy Licenciado en Ciencias Físicas, con especialidad en Física Teórica, doctorado en Física Computacional por el Instituto Carlos I de la Universidad de Granada.
+Soy Licenciado en Ciencias Físicas, con especialidad en Física Teórica, doctorado en **Física Computacional** por el Instituto Carlos I de la Universidad de Granada.
 
-Actualmente me dedico a tiempo completo a la formación, especialmente del profesorado, impartiendo  cursos presenciales de Programación, Robótica, y Diseño e impresión 3D para IFES, Centros de Profesorado (CEP) de Jaén (Jaén, Linares, Úbeda y Orcera), Granada, Córdoba y Antequera.
-Imparto la asignatura de Robótica aplicada al aula para el Máster STEAM de la Universidad Europea de Madrid. 
+Actualmente me dedico a tiempo completo a la formación, especialmente del profesorado, impartiendo  cursos presenciales de Programación, Robótica, y Diseño e impresión 3D para IFES, **Centros de Profesorado** (CEP) de Jaén (Jaén, Linares, Úbeda y Orcera), Granada, Córdoba y Antequera.
+
+Imparto la asignatura de **Robótica aplicada al aula** para el **Máster STEAM** de la **Universidad Europea de Madrid**. 
 
 También coloboro con la Escuela Jr de Ingeniería impartiendo clases de robótica y programación.
 
