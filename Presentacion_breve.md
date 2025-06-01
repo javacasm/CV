@@ -1,4 +1,6 @@
-## José Antonio Vacas Martínez  javacasm@gmail.com
+## José Antonio Vacas Martínez  
+
+### javacasm@gmail.com  - @javacasm en las redes sociales
 
 Estudié Física Teórica e hice un  doctorado en **Física Computacional**. He trabajado como programador y analista en varias empresas
 

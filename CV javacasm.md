@@ -1,6 +1,6 @@
 ![](./javacasm_2023-transparent.png)
  
-## José Antonio Vacas Martínez
+## José Antonio Vacas Martínez javacasm@gmail.com
 
 Licenciado en Ciencias Físicas, con especialidad en Física Teórica, doctorado en **Física Computacional** por el Instituto Carlos I de la Universidad de Granada.  
   
