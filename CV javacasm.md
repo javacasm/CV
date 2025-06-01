@@ -1,4 +1,4 @@
- ![[javacasm_2023-transparent.png]]
+![](./javacasm_2023-transparent.png)
  
 ## José Antonio Vacas Martínez
 
